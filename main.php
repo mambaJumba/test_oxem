@@ -1,5 +1,6 @@
 <?php
 
+
 class Animal
 {
     private static $counter = 0;
